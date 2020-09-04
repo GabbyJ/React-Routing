@@ -1,7 +1,7 @@
 {
-  "name": "react-router-test",
+  "name": "react-routing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learned about react routing and this is my test of it",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
